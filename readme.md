@@ -66,4 +66,10 @@ ___
 
 Predictions will be given as the probability that the corresponding blight ticket will be paid on time.
 
-The evaluation metric for this assignment is the Area Under the ROC Curve (AUC). 
+The evaluation metric for this assignment is the Area Under the ROC Curve (AUC).
+
+
+___
+
+# AUC of 0.801648029659 was awarded 
+___
