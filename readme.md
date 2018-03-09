@@ -71,5 +71,5 @@ The evaluation metric for this assignment is the Area Under the ROC Curve (AUC).
 
 
 ---
-# AUC of 0.801648029659 was awarded 
-
+AUC of 0.801648029659 was awarded
+---
