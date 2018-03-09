@@ -60,7 +60,7 @@ train.csv only
     compliance_detail - More information on why each ticket was marked compliant or non-compliant
 
 
-___
+
 
 ## Evaluation
 
@@ -69,7 +69,7 @@ Predictions will be given as the probability that the corresponding blight ticke
 The evaluation metric for this assignment is the Area Under the ROC Curve (AUC).
 
 
-___
+
 
 # AUC of 0.801648029659 was awarded 
-___
+
